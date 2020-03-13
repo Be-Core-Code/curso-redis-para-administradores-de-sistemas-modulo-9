@@ -6,4 +6,3 @@
 * [_Slow queries_](/#slow_queries)
 * [Latencia](/#latency_issues)
 * [Memoria](/#memory_issues)
-* [Informes de error](/#crash_issues)
